@@ -1,0 +1,5 @@
+	* Yurt Kayýt Sistemi Otomasyonu projesi c# dili ile geliþtirilmiþtir.
+	* Bu proje Murat Yücedað'ýn "C# ile yurt otomasyonu" ders videolarý izlenerek pratik yapmak amaçlý oluþturulmuþ 
+	  ancak tarafýmca kiþisel olarak modifiye edilmiþ, methodlarda ve özelliklerde ekleme çýkarma yapýlmýþ þekildedir.
+	  Orjinalini Murat Yücedað'ýn kanalýndan izleyiniz ( https://www.youtube.com/watch?v=dcC-Q_fmN3A&list=PLKnjBHu2xXNPUA3M_ojv6sZ7bQNbid0qD ) 
+	* Veri tabaný dosyalarý dosya içerisinde mevcuttur.
